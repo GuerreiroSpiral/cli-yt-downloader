@@ -29,5 +29,4 @@ python CLI_Downloader.py
 # Screenshot
 <p align="center">
       <img width="544" height="416" src="https://i.imgur.com/9gFyxSZ.png"><br></br>
-      Custom stylesheet by Colin Duquesnoy
 </p>
