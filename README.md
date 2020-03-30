@@ -5,7 +5,7 @@ A little code snippet I made for personal use. Allows the user to download Youtu
 - Download on highest or lowest resolution allowed by the PyTube library
 - Download only audio
 
-# Depedencies and usage
+# Dependencies and usage
 - This app uses both the PyTube3 and PyFiglet external libraries, altough the latter is not really necessary.
 - If for some reason you're using this and don't want to use PyFiglet, you can comment lines 9 and 52. Otherwise:
 
